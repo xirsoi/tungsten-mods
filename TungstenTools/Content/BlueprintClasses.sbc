@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlueprintClassEntries>
+    <Entry Class="EliteTools" BlueprintSubtypeId="AngleGrinder5" />
+    <Entry Class="EliteTools" BlueprintSubtypeId="Welder5" />
+    <Entry Class="EliteTools" BlueprintSubtypeId="HandDrill5" />
+  </BlueprintClassEntries>
+</Definitions>
