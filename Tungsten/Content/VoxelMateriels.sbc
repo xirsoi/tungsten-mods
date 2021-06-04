@@ -46,7 +46,6 @@
             <Far2Distance>100</Far2Distance>
             <Far2Scale>30</Far2Scale>
             <LandingEffect>Landing_Jet_Ground_Dust</LandingEffect>
-
         </VoxelMaterial>
     </VoxelMaterials>
 </Definitions>
