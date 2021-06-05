@@ -27,9 +27,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="135"/>
+                <Component Subtype="TungstenCarbide" Count="65"/>
                 <Component Subtype="MetalGrid" Count="50"/>
-                <Component Subtype="TungstenCarbide" Count="15"/>
+                <Component Subtype="TungstenCarbide" Count="10"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -190,9 +190,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="65"/>
+                <Component Subtype="TungstenCarbide" Count="25"/>
                 <Component Subtype="MetalGrid" Count="25"/>
-                <Component Subtype="TungstenCarbide" Count="10"/>
+                <Component Subtype="TungstenCarbide" Count="15"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -317,9 +317,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="20"/>
+                <Component Subtype="TungstenCarbide" Count="10"/>
                 <Component Subtype="MetalGrid" Count="10"/>
-                <Component Subtype="TungstenCarbide" Count="5"/>
+                <Component Subtype="TungstenCarbide" Count="2"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -417,9 +417,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="110"/>
+                <Component Subtype="TungstenCarbide" Count="55"/>
                 <Component Subtype="MetalGrid" Count="50"/>
-                <Component Subtype="TungstenCarbide" Count="15"/>
+                <Component Subtype="TungstenCarbide" Count="5"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -569,9 +569,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="3"/>
-                <Component Subtype="MetalGrid" Count="2"/>
                 <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="MetalGrid" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -1108,9 +1108,9 @@
             <GuiVisible>false</GuiVisible>
             <PhysicsOption>Convex</PhysicsOption>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="50"/>
-                <Component Subtype="MetalGrid" Count="25"/>
                 <Component Subtype="TungstenCarbide" Count="25"/>
+                <Component Subtype="MetalGrid" Count="25"/>
+                <Component Subtype="TungstenCarbide" Count="12"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <BuildProgressModels>
@@ -1271,9 +1271,9 @@
             <GuiVisible>false</GuiVisible>
             <PhysicsOption>Convex</PhysicsOption>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="30"/>
-                <Component Subtype="MetalGrid" Count="15"/>
                 <Component Subtype="TungstenCarbide" Count="15"/>
+                <Component Subtype="MetalGrid" Count="15"/>
+                <Component Subtype="TungstenCarbide" Count="7"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <BuildProgressModels>
@@ -1437,7 +1437,7 @@
             <GuiVisible>false</GuiVisible>
             <PhysicsOption>Convex</PhysicsOption>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
                 <Component Subtype="MetalGrid" Count="1"/>
                 <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
@@ -1764,9 +1764,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="115"/>
+                <Component Subtype="TungstenCarbide" Count="60"/>
                 <Component Subtype="MetalGrid" Count="50"/>
-                <Component Subtype="TungstenCarbide" Count="15"/>
+                <Component Subtype="TungstenCarbide" Count="5"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -1891,9 +1891,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="110"/>
+                <Component Subtype="TungstenCarbide" Count="55"/>
                 <Component Subtype="MetalGrid" Count="40"/>
-                <Component Subtype="TungstenCarbide" Count="15"/>
+                <Component Subtype="TungstenCarbide" Count="7"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -1991,9 +1991,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="125"/>
+                <Component Subtype="TungstenCarbide" Count="60"/>
                 <Component Subtype="MetalGrid" Count="50"/>
-                <Component Subtype="TungstenCarbide" Count="15"/>
+                <Component Subtype="TungstenCarbide" Count="10"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -2144,9 +2144,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
                 <Component Subtype="MetalGrid" Count="1"/>
-                <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -2272,7 +2272,7 @@
             <Components>
                 <Component Subtype="TungstenCarbide" Count="2"/>
                 <Component Subtype="MetalGrid" Count="1"/>
-                <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -2369,9 +2369,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="3"/>
-                <Component Subtype="MetalGrid" Count="1"/>
                 <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="MetalGrid" Count="1"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -2525,9 +2525,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="100"/>
+                <Component Subtype="TungstenCarbide" Count="50"/>
                 <Component Subtype="MetalGrid" Count="45"/>
-                <Component Subtype="TungstenCarbide" Count="12"/>
+                <Component Subtype="TungstenCarbide" Count="6"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <BuildProgressModels>
@@ -2689,9 +2689,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="30"/>
+                <Component Subtype="TungstenCarbide" Count="15"/>
                 <Component Subtype="MetalGrid" Count="6"/>
-                <Component Subtype="TungstenCarbide" Count="5"/>
+                <Component Subtype="TungstenCarbide" Count="2"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -2818,9 +2818,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="50"/>
+                <Component Subtype="TungstenCarbide" Count="25"/>
                 <Component Subtype="MetalGrid" Count="15"/>
-                <Component Subtype="TungstenCarbide" Count="5"/>
+                <Component Subtype="TungstenCarbide" Count="2"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -2947,7 +2947,7 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="17"/>
+                <Component Subtype="TungstenCarbide" Count="8"/>
                 <Component Subtype="MetalGrid" Count="6"/>
                 <Component Subtype="TungstenCarbide" Count="2"/>
             </Components>
@@ -3047,9 +3047,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="120"/>
+                <Component Subtype="TungstenCarbide" Count="60"/>
                 <Component Subtype="MetalGrid" Count="45"/>
-                <Component Subtype="TungstenCarbide" Count="13"/>
+                <Component Subtype="TungstenCarbide" Count="6"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -3201,9 +3201,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="84"/>
+                <Component Subtype="TungstenCarbide" Count="42"/>
                 <Component Subtype="MetalGrid" Count="25"/>
-                <Component Subtype="TungstenCarbide" Count="10"/>
+                <Component Subtype="TungstenCarbide" Count="5"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -3361,7 +3361,7 @@
             <Components>
                 <Component Subtype="TungstenCarbide" Count="2"/>
                 <Component Subtype="MetalGrid" Count="1"/>
-                <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -3652,7 +3652,7 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
                 <Component Subtype="MetalGrid" Count="1"/>
                 <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
@@ -3881,9 +3881,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="3"/>
-                <Component Subtype="MetalGrid" Count="1"/>
                 <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="MetalGrid" Count="1"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -4035,9 +4035,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="TungstenCarbide" Count="3"/>
-                <Component Subtype="MetalGrid" Count="1"/>
                 <Component Subtype="TungstenCarbide" Count="2"/>
+                <Component Subtype="MetalGrid" Count="1"/>
+                <Component Subtype="TungstenCarbide" Count="1"/>
             </Components>
             <CriticalComponent Subtype="TungstenCarbide" Index="0"/>
             <MountPoints>
@@ -4208,9 +4208,9 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="25" Subtype="TungstenCarbide"/>
-                <Component Count="15" Subtype="MetalGrid"/>
                 <Component Count="15" Subtype="TungstenCarbide"/>
+                <Component Count="15" Subtype="MetalGrid"/>
+                <Component Count="5" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -4476,9 +4476,9 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="100" Subtype="TungstenCarbide"/>
+                <Component Count="50" Subtype="TungstenCarbide"/>
                 <Component Count="40" Subtype="MetalGrid"/>
-                <Component Count="12" Subtype="TungstenCarbide"/>
+                <Component Count="6" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -4616,7 +4616,7 @@
             <Components>
                 <Component Count="2" Subtype="TungstenCarbide"/>
                 <Component Count="1" Subtype="MetalGrid"/>
-                <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -4743,9 +4743,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Front" StartX="0.0" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="30" Subtype="TungstenCarbide"/>
+                <Component Count="15" Subtype="TungstenCarbide"/>
                 <Component Count="12" Subtype="MetalGrid"/>
-                <Component Count="5" Subtype="TungstenCarbide"/>
+                <Component Count="2" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -4983,9 +4983,9 @@
                 <MountPoint EndX="0.55" EndY="0.55" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="10" Subtype="TungstenCarbide"/>
+                <Component Count="5" Subtype="TungstenCarbide"/>
                 <Component Count="4" Subtype="MetalGrid"/>
-                <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -5195,9 +5195,9 @@
                 <MountPoint EndX="0.5" EndY="0.6" Side="Left" StartX="0.4" StartY="0.5"/>
             </MountPoints>
             <Components>
-                <Component Count="125" Subtype="TungstenCarbide"/>
+                <Component Count="62" Subtype="TungstenCarbide"/>
                 <Component Count="45" Subtype="MetalGrid"/>
-                <Component Count="14" Subtype="TungstenCarbide"/>
+                <Component Count="8" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -5386,9 +5386,9 @@
                 <MountPoint EndX="0.5" EndY="0.6" Side="Left" StartX="0.4" StartY="0.5"/>
             </MountPoints>
             <Components>
-                <Component Count="3" Subtype="TungstenCarbide"/>
-                <Component Count="1" Subtype="MetalGrid"/>
                 <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="MetalGrid"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="TungstenCarbide"/>
 
@@ -5565,9 +5565,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Bottom" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="40" Subtype="TungstenCarbide"/>
+                <Component Count="20" Subtype="TungstenCarbide"/>
                 <Component Count="5" Subtype="MetalGrid"/>
-                <Component Count="5" Subtype="TungstenCarbide"/>
+                <Component Count="2" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -5828,9 +5828,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.0" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="40" Subtype="TungstenCarbide"/>
+                <Component Count="20" Subtype="TungstenCarbide"/>
                 <Component Count="15" Subtype="MetalGrid"/>
-                <Component Count="5" Subtype="TungstenCarbide"/>
+                <Component Count="2" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -5980,7 +5980,7 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.0" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
                 <Component Count="1" Subtype="MetalGrid"/>
                 <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
@@ -6133,9 +6133,9 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="120" Subtype="TungstenCarbide"/>
+                <Component Count="60" Subtype="TungstenCarbide"/>
                 <Component Count="45" Subtype="MetalGrid"/>
-                <Component Count="13" Subtype="TungstenCarbide"/>
+                <Component Count="6" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -6310,9 +6310,9 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="3" Subtype="TungstenCarbide"/>
-                <Component Count="1" Subtype="MetalGrid"/>
                 <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="MetalGrid"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -6485,9 +6485,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="65" Subtype="TungstenCarbide"/>
+                <Component Count="32" Subtype="TungstenCarbide"/>
                 <Component Count="25" Subtype="MetalGrid"/>
-                <Component Count="10" Subtype="TungstenCarbide"/>
+                <Component Count="6" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -6632,7 +6632,7 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
                 <Component Count="1" Subtype="MetalGrid"/>
                 <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
@@ -6780,9 +6780,9 @@
                 <MountPoint EndX="1.0" EndY="1.0" Side="Top" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="115" Subtype="TungstenCarbide"/>
+                <Component Count="56" Subtype="TungstenCarbide"/>
                 <Component Count="40" Subtype="MetalGrid"/>
-                <Component Count="12" Subtype="TungstenCarbide"/>
+                <Component Count="7" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -6956,9 +6956,9 @@
                 <MountPoint EndX="1.0" EndY="1.0" Side="Top" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="3" Subtype="TungstenCarbide"/>
-                <Component Count="1" Subtype="MetalGrid"/>
                 <Component Count="2" Subtype="TungstenCarbide"/>
+                <Component Count="1" Subtype="MetalGrid"/>
+                <Component Count="1" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -7122,9 +7122,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.8" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="20" Subtype="TungstenCarbide"/>
+                <Component Count="10" Subtype="TungstenCarbide"/>
                 <Component Count="6" Subtype="MetalGrid"/>
-                <Component Count="3" Subtype="TungstenCarbide"/>
+                <Component Count="2" Subtype="TungstenCarbide"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
