@@ -2,7 +2,7 @@
 <Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <HandItems>
         <HandItem xsi:type="MyObjectBuilder_WelderDefinition">
-            <Id Type="MyObjectBuilder_Welder" Subtype="Welder5" />
+            <Id Type="MyObjectBuilder_Welder" Subtype="Welder5"/>
             <LeftHandOrientation>
                 <X>-0.707107961</X>
                 <Y>-3.905627E-07</Y>
@@ -113,8 +113,8 @@
             <RunMultiplier>2.47470331</RunMultiplier>
             <AmplitudeMultiplier3rd>1</AmplitudeMultiplier3rd>
             <SimulateLeftHand>false</SimulateLeftHand>
-            <SimulateLeftHandFps xsi:nil="true" />
-            <SimulateRightHandFps xsi:nil="true" />
+            <SimulateLeftHandFps xsi:nil="true"/>
+            <SimulateRightHandFps xsi:nil="true"/>
             <FingersAnimation>HoldingTool</FingersAnimation>
             <MuzzlePosition>
                 <X>0</X>
@@ -127,7 +127,7 @@
                 <Z>0.002</Z>
             </ShootScatter>
             <ScatterSpeed>0.376725733</ScatterSpeed>
-            <PhysicalItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="Welder5Item" />
+            <PhysicalItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="Welder5Item"/>
             <LightColor>
                 <X>0.7</X>
                 <Y>0.85</Y>
@@ -143,9 +143,9 @@
             <ShakeAmountTarget>0.2</ShakeAmountTarget>
             <ShakeAmountNoTarget>0</ShakeAmountNoTarget>
             <ToolSounds>
-                <ToolSound type="Main" subtype="Idle" sound="ToolPlayWeldIdle" />
-                <ToolSound type="Main" subtype="Weld" sound="ToolPlayWeldMetal" />
-                <ToolSound type="Main" subtype="Flame" sound="ToolPlayWeldIdle" />
+                <ToolSound type="Main" subtype="Idle" sound="ToolPlayWeldIdle"/>
+                <ToolSound type="Main" subtype="Weld" sound="ToolPlayWeldMetal"/>
+                <ToolSound type="Main" subtype="Flame" sound="ToolPlayWeldIdle"/>
             </ToolSounds>
             <ToolMaterial>Welder</ToolMaterial>
             <ItemPositioning>TransformFromAnim</ItemPositioning>
@@ -159,11 +159,11 @@
             <!-- This is the actual stat part -->
             <SpeedMultiplier>6</SpeedMultiplier>
             <DistanceMultiplier>1.6</DistanceMultiplier>
-            <Flare />
+            <Flare/>
             <FlameEffect>WelderFlame</FlameEffect>
         </HandItem>
         <HandItem xsi:type="MyObjectBuilder_AngleGrinderDefinition">
-            <Id Type="MyObjectBuilder_AngleGrinder" Subtype="AngleGrinder5" />
+            <Id Type="MyObjectBuilder_AngleGrinder" Subtype="AngleGrinder5"/>
             <LeftHandOrientation>
                 <X>-0.3335125</X>
                 <Y>-0.6409145</Y>
@@ -273,8 +273,8 @@
             <ZAmplitudeScale>0</ZAmplitudeScale>
             <RunMultiplier>1.80977166</RunMultiplier>
             <AmplitudeMultiplier3rd>1</AmplitudeMultiplier3rd>
-            <SimulateLeftHandFps xsi:nil="true" />
-            <SimulateRightHandFps xsi:nil="true" />
+            <SimulateLeftHandFps xsi:nil="true"/>
+            <SimulateRightHandFps xsi:nil="true"/>
             <FingersAnimation>HoldingTool</FingersAnimation>
             <MuzzlePosition>
                 <X>0.03999996</X>
@@ -287,7 +287,7 @@
                 <Z>0.00525955064</Z>
             </ShootScatter>
             <ScatterSpeed>0.04141993</ScatterSpeed>
-            <PhysicalItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinder5Item" />
+            <PhysicalItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="AngleGrinder5Item"/>
             <LightColor>
                 <X>1</X>
                 <Y>0.8</Y>
@@ -302,7 +302,7 @@
             <LightIntensityUpper>0.7</LightIntensityUpper>
             <ShakeAmountTarget>2.5</ShakeAmountTarget>
             <ShakeAmountNoTarget>1</ShakeAmountNoTarget>
-            <ToolSounds />
+            <ToolSounds/>
             <ToolMaterial>Grinder</ToolMaterial>
             <ItemPositioning>TransformFromData</ItemPositioning>
             <ItemPositioning3rd>TransformFromAnim</ItemPositioning3rd>
@@ -314,10 +314,10 @@
             <ItemPositioningIronsight3rd>TransformFromData</ItemPositioningIronsight3rd>
             <SpeedMultiplier>6</SpeedMultiplier>
             <DistanceMultiplier>1.6</DistanceMultiplier>
-            <Flare />
+            <Flare/>
         </HandItem>
         <HandItem xsi:type="MyObjectBuilder_HandDrillDefinition">
-            <Id Type="MyObjectBuilder_HandDrill" Subtype="HandDrill5" />
+            <Id Type="MyObjectBuilder_HandDrill" Subtype="HandDrill5"/>
             <LeftHandOrientation>
                 <X>-0.157468185</X>
                 <Y>0.7128976</Y>
@@ -427,8 +427,8 @@
             <ZAmplitudeScale>0</ZAmplitudeScale>
             <RunMultiplier>1.27547634</RunMultiplier>
             <AmplitudeMultiplier3rd>1</AmplitudeMultiplier3rd>
-            <SimulateLeftHandFps xsi:nil="true" />
-            <SimulateRightHandFps xsi:nil="true" />
+            <SimulateLeftHandFps xsi:nil="true"/>
+            <SimulateRightHandFps xsi:nil="true"/>
             <FingersAnimation>HoldingTool</FingersAnimation>
             <MuzzlePosition>
                 <X>0</X>
@@ -441,7 +441,7 @@
                 <Z>0.0348453335</Z>
             </ShootScatter>
             <ScatterSpeed>0.0151214795</ScatterSpeed>
-            <PhysicalItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrill5Item" />
+            <PhysicalItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="HandDrill5Item"/>
             <LightColor>
                 <X>0</X>
                 <Y>0</Y>
@@ -456,7 +456,7 @@
             <LightIntensityUpper>0</LightIntensityUpper>
             <ShakeAmountTarget>0</ShakeAmountTarget>
             <ShakeAmountNoTarget>0</ShakeAmountNoTarget>
-            <ToolSounds />
+            <ToolSounds/>
             <ToolMaterial>HandDrill</ToolMaterial>
             <ItemPositioning>TransformFromAnim</ItemPositioning>
             <ItemPositioning3rd>TransformFromAnim</ItemPositioning3rd>
@@ -468,7 +468,7 @@
             <ItemPositioningIronsight3rd>TransformFromData</ItemPositioningIronsight3rd>
             <SpeedMultiplier>1.6</SpeedMultiplier>
             <DistanceMultiplier>1.6</DistanceMultiplier>
-            <Flare />
+            <Flare/>
             <HarvestRatioMultiplier>1.6</HarvestRatioMultiplier>
             <ParticleOffset>
                 <X>0</X>

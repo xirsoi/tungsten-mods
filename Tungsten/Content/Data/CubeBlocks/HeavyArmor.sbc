@@ -1742,14 +1742,21 @@
         <!-- Region ROUND ARMOR -->
         <!--    Region LARGE HEAVY -->
             <Definition>
-                <Id><TypeId>CubeBlock
-                </TypeId><SubtypeId>LargeHeavyBlockArmorRoundSlope
+                <Id><TypeId>
+                CubeBlock
+                </TypeId><SubtypeId>
+                LargeHeavyBlockArmorRoundSlope
             </SubtypeId>
-            </Id><DisplayName>DisplayName_Block_HeavyRoundArmorSlope
-            </DisplayName><Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds
-            </Icon><Description>Description_HeavyArmor
-            </Description><CubeSize>Large
-            </CubeSize><BlockTopology>Cube
+            </Id><DisplayName>
+            DisplayName_Block_HeavyRoundArmorSlope
+            </DisplayName><Icon>
+            Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds
+            </Icon><Description>
+            Description_HeavyArmor
+            </Description><CubeSize>
+            Large
+            </CubeSize><BlockTopology>
+            Cube
             </BlockTopology>
             <Size x="1" y="1" z="1"/> <ModelOffset x="0" y="0" z="0"/>
             <CubeDefinition>
@@ -2502,14 +2509,21 @@
         <!--    Large Heavy    -->
         <!--    2x1x1 SLOPE-->
             <Definition>
-                <Id><TypeId>CubeBlock
-                </TypeId><SubtypeId>LargeHeavyBlockArmorSlope2Base
+                <Id><TypeId>
+                CubeBlock
+                </TypeId><SubtypeId>
+                LargeHeavyBlockArmorSlope2Base
             </SubtypeId>
-            </Id><DisplayName>DisplayName_Block_HeavyArmorSlope2Base
-            </DisplayName><Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds
-            </Icon><Description>Description_HeavyArmor
-            </Description><CubeSize>Large
-            </CubeSize><BlockTopology>Cube
+            </Id><DisplayName>
+            DisplayName_Block_HeavyArmorSlope2Base
+            </DisplayName><Icon>
+            Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds
+            </Icon><Description>
+            Description_HeavyArmor
+            </Description><CubeSize>
+            Large
+            </CubeSize><BlockTopology>
+            Cube
             </BlockTopology>
             <Size x="1" y="1" z="1"/> <ModelOffset x="0" y="0" z="0"/>
             <CubeDefinition>
