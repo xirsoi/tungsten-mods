@@ -7,7 +7,7 @@
                 <SubtypeId>AngleGrinder5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_AngleGrinder5</DisplayName>
-            <Icon>Textures\GUI\Icons\WeaponGrinder_3.dds</Icon>
+            <Icon>Textures\Icons\WeaponGrinder_4.dds</Icon>
             <Prerequisites>
                 <Item Amount="3" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Nickel"/>
@@ -24,7 +24,7 @@
                 <SubtypeId>Welder5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_Welder4</DisplayName>
-            <Icon>Textures\GUI\Icons\WeaponWelder_3.dds</Icon>
+            <Icon>Textures\Icons\WeaponWelder_4.dds</Icon>
             <Prerequisites>
                 <Item Amount="5" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="1" TypeId="Ingot" SubtypeId="Nickel"/>
@@ -40,7 +40,7 @@
                 <SubtypeId>HandDrill5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_HandDrill5</DisplayName>
-            <Icon>Textures\GUI\Icons\WeaponDrill_3.dds</Icon>
+            <Icon>Textures\Icons\WeaponDrill_4.dds</Icon>
             <Prerequisites>
                 <Item Amount="20" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="3" TypeId="Ingot" SubtypeId="Nickel"/>

@@ -34,7 +34,7 @@
                 <SubtypeId>Tungsten</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_TungstenIngot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
+            <Icon>Textures\Icons\tungsten_ingot.dds</Icon>
             <Size>
                 <X>0.046</X>
                 <Y>0.046</Y>
@@ -44,7 +44,7 @@
             <Volume>0.067</Volume>
             <Model>Models\Ingots\silver_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <IconSymbol>IconSymbol_Ag</IconSymbol>
+            <IconSymbol>IconSymbol_W</IconSymbol>
             <MinimumOfferAmount>500</MinimumOfferAmount>
             <MaximumOfferAmount>5000</MaximumOfferAmount>
             <MinimumOrderAmount>30</MinimumOrderAmount>

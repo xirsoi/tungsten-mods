@@ -7,7 +7,7 @@
                 <SubtypeId>SmallBlockDrill2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Drill2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
+            <Icon>Textures\Icons\drill2.dds</Icon>
             <Description>Description_Drill2</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -81,7 +81,7 @@
                 <SubtypeId>LargeBlockDrill2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Drill2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\drill.dds</Icon>
+            <Icon>Textures\Icons\drill2.dds</Icon>
             <Description>Description_Drill2</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -158,7 +158,7 @@
                 <SubtypeId>LargeShipGrinder2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShipGrinder</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
+            <Icon>Textures\Icons\grinder2.dds</Icon>
             <Description>Description_ShipGrinder2</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -222,7 +222,7 @@
                 <SubtypeId>SmallShipGrinder2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShipGrinder2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
+            <Icon>Textures\Icons\grinder2.dds</Icon>
             <Description>Description_ShipGrinder</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -289,7 +289,7 @@
                 <SubtypeId>LargeShipWelder2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShipWelder2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Welder.dds</Icon>
+            <Icon>Textures\Icons\welder2.dds</Icon>
             <Description>Description_ShipWelder2</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -355,7 +355,7 @@
                 <SubtypeId>SmallShipWelder2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShipWelder2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Welder.dds</Icon>
+            <Icon>Textures\Icons\welder2.dds</Icon>
             <Description>Description_ShipWelder2</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>

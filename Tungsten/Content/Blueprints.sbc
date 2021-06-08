@@ -7,7 +7,7 @@
                 <SubtypeId>TungstenOreToIngot</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_TungstenIngot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
+            <Icon>Textures\Icons\tungsten_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Tungsten"/>
             </Prerequisites>
@@ -20,7 +20,7 @@
                 <SubtypeId>TungstenCarbide</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_TungstenCarbide</DisplayName>
-            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+            <Icon>Textures\Icons\tungsten_carbide_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Tungsten"/>
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Stone"/>

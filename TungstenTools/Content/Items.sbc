@@ -7,7 +7,7 @@
                 <SubtypeId>AngleGrinder5Item</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_AngleGrinder5</DisplayName>
-            <Icon>Textures\GUI\Icons\WeaponGrinder_3.dds</Icon>
+            <Icon>Textures\Icons\WeaponGrinder_4.dds</Icon>
             <Description>Description_AngleGrinder</Description>
             <Size>
                 <X>0.5</X>
@@ -31,7 +31,7 @@
                 <SubtypeId>Welder5Item</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_Welder5</DisplayName>
-            <Icon>Textures\GUI\Icons\WeaponWelder_3.dds</Icon>
+            <Icon>Textures\Icons\WeaponWelder_4.dds</Icon>
             <Description>Description_Welder</Description>
             <Size>
                 <X>0.4</X>
@@ -55,7 +55,7 @@
                 <SubtypeId>HandDrill5Item</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_HandDrill5</DisplayName>
-            <Icon>Textures\GUI\Icons\WeaponDrill_3.dds</Icon>
+            <Icon>Textures\Icons\WeaponDrill_4.dds</Icon>
             <Description>Description_HandDrill</Description>
             <Size>
                 <X>1.2</X>
