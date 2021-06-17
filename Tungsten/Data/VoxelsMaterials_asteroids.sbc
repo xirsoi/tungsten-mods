@@ -37,8 +37,8 @@
             <DistanceMultiplier>4</DistanceMultiplier>
             <TilingScale>24</TilingScale>
 
-            <ColorMetalXZnYFar1>Textures\Voxels\Tungsten_01_ForAxisXZ_distance_cm.dds</ColorMetalXZnYFar1>
-            <NormalGlossXZnYFar1>Textures\Voxels\Tungsten_01_ForAxisXZ_distance_ng.dds</NormalGlossXZnYFar1>
+            <ColorMetalXZnYFar1>Textures\Voxels\Uraninite_Yellow_01_ForAxisXZ_cm.dds</ColorMetalXZnYFar1>
+            <NormalGlossXZnYFar1>Textures\Voxels\Uraninite_Yellow_01_ForAxisXZ_ng.dds</NormalGlossXZnYFar1>
             <ExtXZnYFar1>Textures\Voxels\Tungsten_01_ForAxisXZ_distance_add.dds</ExtXZnYFar1>
             <Far1Distance>12</Far1Distance>
             <Far1Scale>12</Far1Scale>
