@@ -6,7 +6,7 @@
                 <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>TungstenOreToIngot</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_TungstenIngot</DisplayName>
+            <DisplayName>Tungsten Ingot</DisplayName>
             <Icon>Textures\Icons\tungsten_ingot.dds</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Tungsten"/>
@@ -19,7 +19,7 @@
                 <TypeId>BlueprintDefinition</TypeId>
                 <SubtypeId>TungstenCarbide</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_TungstenCarbide</DisplayName>
+            <DisplayName>Tungsten Plate</DisplayName>
             <Icon>Textures\Icons\tungsten_carbide_component.dds</Icon>
             <Prerequisites>
                 <Item Amount="10" TypeId="Ingot" SubtypeId="Tungsten"/>

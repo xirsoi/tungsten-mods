@@ -6,7 +6,7 @@
                 <TypeId>Component</TypeId>
                 <SubtypeId>TungstenCarbide</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_TungstenCarbide</DisplayName>
+            <DisplayName>Tungsten Plate</DisplayName>
             <Icon>Textures\Icons\tungsten_carbide_component.dds</Icon>
             <Size>
                 <X>0.5</X>

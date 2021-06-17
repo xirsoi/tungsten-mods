@@ -6,7 +6,7 @@
                 <TypeId>Ore</TypeId>
                 <SubtypeId>Tungsten</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_TungstenOre</DisplayName>
+            <DisplayName>Tungsten Ore</DisplayName>
             <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
             <Size>
                 <X>0.07</X>
@@ -33,7 +33,7 @@
                 <TypeId>Ingot</TypeId>
                 <SubtypeId>Tungsten</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_TungstenIngot</DisplayName>
+            <DisplayName>Tungsten Ingot</DisplayName>
             <Icon>Textures\Icons\tungsten_ingot.dds</Icon>
             <Size>
                 <X>0.046</X>
@@ -44,7 +44,7 @@
             <Volume>0.067</Volume>
             <Model>Models\Ingots\silver_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <IconSymbol>IconSymbol_W</IconSymbol>
+            <IconSymbol>W</IconSymbol>
             <MinimumOfferAmount>500</MinimumOfferAmount>
             <MaximumOfferAmount>5000</MaximumOfferAmount>
             <MinimumOrderAmount>30</MinimumOrderAmount>

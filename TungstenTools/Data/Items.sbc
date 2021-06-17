@@ -6,7 +6,7 @@
                 <TypeId>PhysicalGunObject</TypeId>
                 <SubtypeId>AngleGrinder5Item</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_AngleGrinder5</DisplayName>
+            <DisplayName>Ultimate Grinder</DisplayName>
             <Icon>Textures\Icons\WeaponGrinder_4.dds</Icon>
             <Description>Description_AngleGrinder</Description>
             <Size>
@@ -30,7 +30,7 @@
                 <TypeId>PhysicalGunObject</TypeId>
                 <SubtypeId>Welder5Item</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_Welder5</DisplayName>
+            <DisplayName>Ultimate Welder</DisplayName>
             <Icon>Textures\Icons\WeaponWelder_4.dds</Icon>
             <Description>Description_Welder</Description>
             <Size>
@@ -54,7 +54,7 @@
                 <TypeId>PhysicalGunObject</TypeId>
                 <SubtypeId>HandDrill5Item</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_HandDrill5</DisplayName>
+            <DisplayName>Ultimate Drill</DisplayName>
             <Icon>Textures\Icons\WeaponDrill_4.dds</Icon>
             <Description>Description_HandDrill</Description>
             <Size>

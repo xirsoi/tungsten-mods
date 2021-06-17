@@ -6,9 +6,9 @@
                 <TypeId>Drill</TypeId>
                 <SubtypeId>SmallBlockDrill2</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_Drill2</DisplayName>
+            <DisplayName>Advanced Drill</DisplayName>
             <Icon>Textures\Icons\drill2.dds</Icon>
-            <Description>Description_Drill2</Description>
+            <Description>An advanced drill utilizing Tungsten Carbide studded drill heads.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -80,9 +80,9 @@
                 <TypeId>Drill</TypeId>
                 <SubtypeId>LargeBlockDrill2</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_Drill2</DisplayName>
+            <DisplayName>Advanced Drill</DisplayName>
             <Icon>Textures\Icons\drill2.dds</Icon>
-            <Description>Description_Drill2</Description>
+            <Description>An advanced drill utilizing Tungsten Carbide studded drill heads.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -157,9 +157,9 @@
                 <TypeId>ShipGrinder</TypeId>
                 <SubtypeId>LargeShipGrinder2</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_ShipGrinder</DisplayName>
+            <DisplayName>Advanced Grinder</DisplayName>
             <Icon>Textures\Icons\grinder2.dds</Icon>
-            <Description>Description_ShipGrinder2</Description>
+            <Description>A more powerful grinder utilizing Tungsten Carbide blades.</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="2"/>
@@ -221,7 +221,7 @@
                 <TypeId>ShipGrinder</TypeId>
                 <SubtypeId>SmallShipGrinder2</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_ShipGrinder2</DisplayName>
+            <DisplayName>Advanced Grinder</DisplayName>
             <Icon>Textures\Icons\grinder2.dds</Icon>
             <Description>Description_ShipGrinder</Description>
             <CubeSize>Small</CubeSize>
@@ -288,9 +288,9 @@
                 <TypeId>ShipWelder</TypeId>
                 <SubtypeId>LargeShipWelder2</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_ShipWelder2</DisplayName>
+            <DisplayName>Advanced Welder</DisplayName>
             <Icon>Textures\Icons\welder2.dds</Icon>
-            <Description>Description_ShipWelder2</Description>
+            <Description>A superior welder design utilizing Tungsten as a catalyst, improving the arc welder range.</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -354,9 +354,9 @@
                 <TypeId>ShipWelder</TypeId>
                 <SubtypeId>SmallShipWelder2</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_ShipWelder2</DisplayName>
+            <DisplayName>Advanced Welder</DisplayName>
             <Icon>Textures\Icons\welder2.dds</Icon>
-            <Description>Description_ShipWelder2</Description>
+            <Description>A superior welder design utilizing Tungsten as a catalyst, improving the arc welder range.</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
