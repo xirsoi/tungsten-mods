@@ -56,10 +56,10 @@
             <BuildTimeSeconds>25</BuildTimeSeconds>
 
             <ResourceSinkGroup>Defense</ResourceSinkGroup>
-            <SensorRadius>1.6</SensorRadius>
-            <SensorOffset>0.8</SensorOffset>
-            <CutOutRadius>1.6</CutOutRadius>
-            <CutOutOffset>0.6</CutOutOffset>
+            <SensorRadius>2</SensorRadius>
+            <SensorOffset>1.0</SensorOffset>
+            <CutOutRadius>2</CutOutRadius>
+            <CutOutOffset>1.0</CutOutOffset>
             <ParticleOffset>
                 <X>0</X>
                 <Y>0</Y>
@@ -134,10 +134,10 @@
             <Center x="0" y="0" z="2"/>
 
             <ResourceSinkGroup>Defense</ResourceSinkGroup>
-            <SensorRadius>2.4</SensorRadius>
-            <SensorOffset>2.8</SensorOffset>
-            <CutOutRadius>2.4</CutOutRadius>
-            <CutOutOffset>2.8</CutOutOffset>
+            <SensorRadius>2.8</SensorRadius>
+            <SensorOffset>3.0</SensorOffset>
+            <CutOutRadius>2.8</CutOutRadius>
+            <CutOutOffset>3.0</CutOutOffset>
             <ParticleOffset>
                 <X>0</X>
                 <Y>0</Y>
@@ -213,7 +213,7 @@
             <Flare></Flare>
             <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>1.8</SensorRadius>
+            <SensorRadius>2.0</SensorRadius>
             <PCU>100</PCU>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ShipGrinderDefinition">
@@ -279,7 +279,7 @@
             <Flare></Flare>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>1.9</SensorRadius>
+            <SensorRadius>2.0</SensorRadius>
             <PCU>100</PCU>
             <IsAirTight>false</IsAirTight>
         </Definition>
@@ -346,7 +346,7 @@
             <EmissiveColorPreset>Welder</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>2.8</SensorRadius>
+            <SensorRadius>3.2</SensorRadius>
             <PCU>150</PCU>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ShipWelderDefinition">
@@ -401,7 +401,7 @@
             <EmissiveColorPreset>Welder</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>1.6</SensorRadius>
+            <SensorRadius>2.5</SensorRadius>
             <PCU>150</PCU>
             <IsAirTight>false</IsAirTight>
         </Definition>
