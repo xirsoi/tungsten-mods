@@ -49,16 +49,16 @@
                     <MinAllowed>0.01</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>Drill</BlockPairName>
+            <BlockPairName>AdvancedDrill</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>25</BuildTimeSeconds>
 
             <ResourceSinkGroup>Defense</ResourceSinkGroup>
-            <SensorRadius>1.5</SensorRadius>
+            <SensorRadius>1.6</SensorRadius>
             <SensorOffset>0.8</SensorOffset>
-            <CutOutRadius>1.5</CutOutRadius>
+            <CutOutRadius>1.6</CutOutRadius>
             <CutOutOffset>0.6</CutOutOffset>
             <ParticleOffset>
                 <X>0</X>
@@ -126,7 +126,7 @@
                     <MinAllowed>0.01</MinAllowed>
                 </DynamicMode>
             </VoxelPlacement>
-            <BlockPairName>Drill</BlockPairName>
+            <BlockPairName>AdvancedDrill</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Light</EdgeType>
@@ -134,9 +134,9 @@
             <Center x="0" y="0" z="2"/>
 
             <ResourceSinkGroup>Defense</ResourceSinkGroup>
-            <SensorRadius>2.2</SensorRadius>
+            <SensorRadius>2.4</SensorRadius>
             <SensorOffset>2.8</SensorOffset>
-            <CutOutRadius>2.2</CutOutRadius>
+            <CutOutRadius>2.4</CutOutRadius>
             <CutOutOffset>2.8</CutOutOffset>
             <ParticleOffset>
                 <X>0</X>
@@ -203,7 +203,7 @@
                 <MountPoint Side="Bottom" StartX="0.30" StartY="1.30" EndX="0.70" EndY="1.70"/>
                 <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" Default="true"/>
             </MountPoints>
-            <BlockPairName>ShipGrinder</BlockPairName>
+            <BlockPairName>AdvancedShipGrinder</BlockPairName>
             <MirroringZ>X</MirroringZ>
             <EdgeType>Light</EdgeType>
             <Public>true</Public>
@@ -213,7 +213,7 @@
             <Flare></Flare>
             <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>1.7</SensorRadius>
+            <SensorRadius>1.8</SensorRadius>
             <PCU>100</PCU>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ShipGrinderDefinition">
@@ -269,7 +269,7 @@
                 <MountPoint Side="Back" StartX="0.35" StartY="0.25" EndX="2.65" EndY="0.35"/>
                 <MountPoint Side="Back" StartX="0.35" StartY="2.65" EndX="2.65" EndY="2.75"/>
             </MountPoints>
-            <BlockPairName>ShipGrinder</BlockPairName>
+            <BlockPairName>AdvancedShipGrinder</BlockPairName>
             <MirroringZ>X</MirroringZ>
             <EdgeType>Light</EdgeType>
             <Public>true</Public>
@@ -279,7 +279,7 @@
             <Flare></Flare>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>1.5</SensorRadius>
+            <SensorRadius>1.9</SensorRadius>
             <PCU>100</PCU>
             <IsAirTight>false</IsAirTight>
         </Definition>
@@ -335,18 +335,18 @@
                 <MountPoint Side="Bottom" StartX="0.30" StartY="1.30" EndX="0.70" EndY="1.70"/>
                 <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" Default="true"/>
             </MountPoints>
-            <BlockPairName>ShipWelder</BlockPairName>
+            <BlockPairName>AdvancedShipWelder</BlockPairName>
             <MirroringZ>X</MirroringZ>
             <EdgeType>Light</EdgeType>
             <Public>true</Public>
-            <BuildTimeSeconds>29</BuildTimeSeconds>
+            <BuildTimeSeconds>30</BuildTimeSeconds>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
             <Flare>ShipWelderLarge</Flare>
             <EmissiveColorPreset>Welder</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>2.5</SensorRadius>
+            <SensorRadius>2.8</SensorRadius>
             <PCU>150</PCU>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_ShipWelderDefinition">
@@ -390,7 +390,7 @@
                 <MountPoint Side="Back" StartX="0.35" StartY="0.25" EndX="2.65" EndY="0.35"/>
                 <MountPoint Side="Back" StartX="0.35" StartY="2.65" EndX="2.65" EndY="2.75" Default="true"/>
             </MountPoints>
-            <BlockPairName>ShipWelder</BlockPairName>
+            <BlockPairName>AdvancedShipWelder</BlockPairName>
             <MirroringZ>X</MirroringZ>
             <EdgeType>Light</EdgeType>
             <Public>true</Public>
@@ -401,7 +401,7 @@
             <EmissiveColorPreset>Welder</EmissiveColorPreset>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <SensorRadius>1.5</SensorRadius>
+            <SensorRadius>1.6</SensorRadius>
             <PCU>150</PCU>
             <IsAirTight>false</IsAirTight>
         </Definition>
