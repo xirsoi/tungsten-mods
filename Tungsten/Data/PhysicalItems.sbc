@@ -17,12 +17,12 @@
             <Volume>0.184</Volume>
             <Model>Models\Components\Sphere.mwm</Model>
             <PhysicalMaterial>Stone</PhysicalMaterial>
-            <IconSymbol>IconSymbol_W</IconSymbol>
-            <MinimalPricePerUnit>200</MinimalPricePerUnit>
-            <MinimumOfferAmount>1500</MinimumOfferAmount>
-            <MaximumOfferAmount>15000</MaximumOfferAmount>
-            <MinimumOrderAmount>1500</MinimumOrderAmount>
-            <MaximumOrderAmount>15000</MaximumOrderAmount>
+            <IconSymbol>W</IconSymbol>
+            <MinimalPricePerUnit>400</MinimalPricePerUnit>
+            <MinimumOfferAmount>100</MinimumOfferAmount>
+            <MaximumOfferAmount>1000</MaximumOfferAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>1000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
             <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
@@ -45,14 +45,14 @@
             <Model>Models\Ingots\silver_ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <IconSymbol>W</IconSymbol>
-            <MinimumOfferAmount>500</MinimumOfferAmount>
-            <MaximumOfferAmount>5000</MaximumOfferAmount>
-            <MinimumOrderAmount>30</MinimumOrderAmount>
-            <MaximumOrderAmount>3000</MaximumOrderAmount>
+            <MinimumOfferAmount>200</MinimumOfferAmount>
+            <MaximumOfferAmount>2000</MaximumOfferAmount>
+            <MinimumOrderAmount>10</MinimumOrderAmount>
+            <MaximumOrderAmount>1000</MaximumOrderAmount>
             <CanPlayerOrder>true</CanPlayerOrder>
 
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+            <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+            <MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
         </PhysicalItem>
     </PhysicalItems>
 </Definitions>
