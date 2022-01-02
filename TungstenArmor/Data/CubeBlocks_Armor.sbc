@@ -985,6 +985,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>15</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -1081,6 +1082,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -1236,6 +1238,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>16</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -1924,6 +1927,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>6</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <EdgeType>Heavy</EdgeType>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
@@ -2052,6 +2056,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>4</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <EdgeType>Heavy</EdgeType>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
@@ -2147,6 +2152,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>2</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <EdgeType>Heavy</EdgeType>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
@@ -2301,6 +2307,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>5</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <EdgeType>Heavy</EdgeType>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
@@ -2626,6 +2633,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>10</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <NavigationDefinition>Default</NavigationDefinition>
       <BlockPairName>HalfHeavyArmorBlock</BlockPairName>
       <MirroringY>Z</MirroringY>
@@ -2953,6 +2961,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>5</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <NavigationDefinition>Default</NavigationDefinition>
       <MirroringY>Z</MirroringY>
       <MirroringZ>Y</MirroringZ>
@@ -3282,6 +3291,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>3</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <NavigationDefinition>Default</NavigationDefinition>
       <MirroringY>Z</MirroringY>
       <MirroringZ>Y</MirroringZ>
@@ -3606,6 +3616,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>2</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <NavigationDefinition>Default</NavigationDefinition>
       <BlockPairName>HalfSlopeHeavyArmorBlock</BlockPairName>
       <MirroringY>Z</MirroringY>
@@ -4116,6 +4127,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>12</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -4212,6 +4224,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -4367,6 +4380,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -4866,6 +4880,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>4</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -4961,6 +4976,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>2</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -5115,6 +5131,7 @@
       <DeformationRatio>0.16</DeformationRatio>
       <BuildTimeSeconds>6</BuildTimeSeconds>
       <DisassembleRatio>3</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -6113,6 +6130,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>15</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -6242,6 +6260,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>5</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -6371,6 +6390,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>10</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -6468,6 +6488,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>5</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -6623,6 +6644,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>20</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -6780,6 +6802,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>15</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -7769,6 +7792,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>5</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -7898,6 +7922,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>2</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -8027,6 +8052,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>3</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -8124,6 +8150,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>2</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
       <IsAirTight>false</IsAirTight>
@@ -8279,6 +8306,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>5</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>
@@ -8436,6 +8464,7 @@
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>4</BuildTimeSeconds>
       <DisassembleRatio>2.5</DisassembleRatio>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <PCU>1</PCU>
       <PCUConsole>2</PCUConsole>
     </Definition>

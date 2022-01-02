@@ -19,7 +19,7 @@
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <MaxIntegrity>200</MaxIntegrity>
             <DropProbability>0.3</DropProbability>
-            <Health>100</Health>
+            <Health>106</Health>
             <MinimumOfferAmount>100</MinimumOfferAmount>
             <MaximumOfferAmount>1200</MaximumOfferAmount>
             <MinimumOrderAmount>50</MinimumOrderAmount>

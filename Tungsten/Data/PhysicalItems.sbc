@@ -6,7 +6,7 @@
                 <TypeId>Ore</TypeId>
                 <SubtypeId>Tungsten</SubtypeId>
             </Id>
-            <DisplayName>Tungsten Ore</DisplayName>
+            <DisplayName>Tungsten</DisplayName>
             <Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
             <Size>
                 <X>0.07</X>

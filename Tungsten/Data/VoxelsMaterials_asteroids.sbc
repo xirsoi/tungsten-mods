@@ -9,7 +9,7 @@
             </Id>
             <MaterialTypeName>Rock</MaterialTypeName>
             <MinedOre>Tungsten</MinedOre>
-            <MinedOreRatio>0.7</MinedOreRatio>
+            <MinedOreRatio>0.4</MinedOreRatio>
             <CanBeHarvested>true</CanBeHarvested>
             <IsRare>true</IsRare>
 
