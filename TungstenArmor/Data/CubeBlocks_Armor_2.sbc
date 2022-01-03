@@ -122,7 +122,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -244,7 +244,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -368,7 +368,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\CornerSquareConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -493,7 +493,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\CornerSquareConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -623,7 +623,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -751,7 +751,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -881,7 +881,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\CornerSquareInvertedConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -1012,7 +1012,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\CornerSquareInvertedConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -1127,7 +1127,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
     </Definition>
     <Definition>
@@ -1241,7 +1241,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
     </Definition>
     <Definition>
@@ -1357,7 +1357,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\HalfCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
       <Model />
     </Definition>
@@ -1474,7 +1474,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\HalfCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
       <Model />
     </Definition>
@@ -1567,7 +1567,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
     </Definition>
     <Definition>
@@ -1658,7 +1658,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
     </Definition>
     <Definition>
@@ -1750,7 +1750,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\HalfSlopeCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
       <Model />
     </Definition>
@@ -1843,7 +1843,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\HalfSlopeCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
       <Model />
     </Definition>
@@ -2027,7 +2027,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -2208,7 +2208,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -2391,7 +2391,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\HalfSlopeCornerInvertedConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -2575,7 +2575,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\HalfSlopeCornerInvertedConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -2696,7 +2696,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -2815,7 +2815,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -2936,7 +2936,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\HalfSlopedCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -3058,7 +3058,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\HalfSlopedCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -3202,7 +3202,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -3344,7 +3344,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -3488,7 +3488,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\HalfSlopedCornerBaseConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -3633,7 +3633,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\HalfSlopedCornerBaseConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -3802,7 +3802,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -3969,7 +3969,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -4138,7 +4138,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\HalfSlopeInvertedConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -4308,7 +4308,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\HalfSlopeInvertedConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -4448,7 +4448,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -4586,7 +4586,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -4726,7 +4726,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\SlopedCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -4867,7 +4867,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\SlopedCornerConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -5035,7 +5035,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -5201,7 +5201,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
     </Definition>
     <Definition>
       <Id>
@@ -5369,7 +5369,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\SlopedCornerBaseConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -5538,7 +5538,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\SlopedCornerBaseConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <Model />
     </Definition>
     <Definition>
@@ -5643,7 +5643,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
     </Definition>
     <Definition>
@@ -5747,7 +5747,7 @@
       <InventoryMaxVolume>1.0</InventoryMaxVolume>
       <Model />
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
     </Definition>
     <Definition>
@@ -5852,7 +5852,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\SlopedCornerTipConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
       <Model />
     </Definition>
@@ -5958,7 +5958,7 @@
         <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\Armor\SlopedCornerTipConstruction_3.mwm" />
       </BuildProgressModels>
       <UseModelIntersection>false</UseModelIntersection>
-      <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+      <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
       <IsAirTight>false</IsAirTight>
       <Model />
     </Definition>
