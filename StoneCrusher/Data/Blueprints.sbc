@@ -9,9 +9,9 @@
             <DisplayName>Gravel</DisplayName>
             <Icon>Textures\Icons\gravel_ingot.dds</Icon>
             <Prerequisites>
-                <Item Amount="100" TypeId="Ore" SubtypeId="Stone"/>
+                <Item Amount="10" TypeId="Ore" SubtypeId="Stone"/>
             </Prerequisites>
-            <Result Amount="100" TypeId="Ingot" SubtypeId="Stone"/>
+            <Result Amount="10" TypeId="Ingot" SubtypeId="Stone"/>
             <Priority>1000</Priority>
             <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
         </Blueprint>

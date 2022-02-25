@@ -6,7 +6,7 @@
                 <TypeId>Refinery</TypeId>
                 <SubtypeId>StoneCrusher</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_Arc_Furnace</DisplayName>
+            <DisplayName>Stone Crusher</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Blastfurnace.dds</Icon>
             <Description>A specialized and simplified Basic Refinery which simply crushes stone into gravel.</Description>
             <CubeSize>Large</CubeSize>
