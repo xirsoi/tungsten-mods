@@ -22,8 +22,8 @@
             <DisplayName>Tungsten Plate</DisplayName>
             <Icon>Textures\Icons\tungsten_carbide_component.dds</Icon>
             <Prerequisites>
-                <Item Amount="10" TypeId="Ingot" SubtypeId="Tungsten"/>
-                <Item Amount="10" TypeId="Ingot" SubtypeId="Stone"/>
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Tungsten"/>
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Stone"/>
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="TungstenCarbide"/>
             <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions>
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>StoneToGravel</SubtypeId>
+            </Id>
+            <DisplayName>Gravel</DisplayName>
+            <Icon>Textures\Icons\gravel_ingot.dds</Icon>
+            <Prerequisites>
+                <Item Amount="100" TypeId="Ore" SubtypeId="Stone"/>
+            </Prerequisites>
+            <Result Amount="100" TypeId="Ingot" SubtypeId="Stone"/>
+            <Priority>1000</Priority>
+            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+        </Blueprint>
+    </Blueprints>
+</Definitions>
