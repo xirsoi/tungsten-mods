@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>DatapadIO</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_Datapad</DisplayName>
+            <Icon>Textures\GUI\Icons\Items\Datapad_Item.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ingot" SubtypeId="Display" />
+                <Item Amount="1" TypeId="Component" SubtypeId="Computer" />
+                <Item Amount="1" TypeId="Component" SubtypeId="AcidPowerCell" />
+            </Prerequisites>
+            <Results>
+                <Item Amount="1" TypeId="Datapad" SubtypeId="Datapad" />
+            </Results>
+            <BaseProductionTimeInSeconds>15</BaseProductionTimeInSeconds>
+            <Public>true</Public>
+        </Blueprint>
+    </Blueprints>
+    <BlueprintClassEntries>
+        <Entry Class="AssemblerComponents" BlueprintSubtypeId="DatapadIO" />
+    </BlueprintClassEntries>
+</Definitions>
